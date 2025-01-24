@@ -74,7 +74,7 @@
 >
 	{#if hamburgerMenuIsOpen === true}
 		<div class="container flex h-14 items-center justify-between">
-			<a class="text-md flex items-center" href="/"> Svee UI </a>
+			<a class="text-md flex items-center" href="/"> Ai PDF assist </a>
 
 			<button class="md:hidden" use:toggleOverflowHidden>
 				<span class="sr-only">Toggle menu</span>
